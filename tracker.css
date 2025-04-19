@@ -7,8 +7,8 @@
 }
 
 body {
-  background-color: #f0f2f5;
-  color: #333;
+  background-color: white;
+  color: black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -36,7 +36,8 @@ h4 {
 }
 
 .smallContainer {
-  background-color: #ff000073;
+  
+  background-color: rgba(37, 10, 37, 0.145);
   display: flex;
   flex-direction: row;
   justify-content: space-between;
